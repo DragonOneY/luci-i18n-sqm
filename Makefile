@@ -21,6 +21,7 @@ define Package/luci-i18n-sqm
   CATEGORY:=LuCI
   SUBMENU:=X. Luci-i18n
   TITLE:=LuCI support for the sqm language package
+  PKGARCH:=all
 endef
 
 define Package/luci-i18n-sqm/description

@@ -204,6 +204,3 @@ msgstr "使用哪个链路适应机制; 仅用于测试"
 
 msgid "This just uses the cake qdisc as a replacement for htb as shaper and fq_codel as leaf qdisc."
 msgstr "这只是用蛋糕迅速断开为HTB作为整形和fq_codel叶迅速断开更换。"
-
-msgid "BW-limited three-tier prioritisation scheme with fq_codel on each queue. (default)"
-msgstr "这jb不能汉化。"
