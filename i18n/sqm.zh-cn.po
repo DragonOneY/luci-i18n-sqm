@@ -201,6 +201,3 @@ msgstr "最小数据包大小，MPU（byte）; 在以太网中需要>0："
 #: usr/lib/lua/luci/model/cbi/sqm.lua:242
 msgid "Which linklayer adaptation mechanism to use; for testing only"
 msgstr "使用哪个链路适应机制; 仅用于测试"
-
-msgid "This just uses the cake qdisc as a replacement for htb as shaper and fq_codel as leaf qdisc."
-msgstr "这只是用蛋糕迅速断开为HTB作为整形和fq_codel叶迅速断开更换。"
